@@ -1,0 +1,108 @@
+A sequência inicial corresponde ao péptido viral com potencial imunogénico.
+
+1   RLTPPQPLM:
+1.1 RLGPPEPMM (Q15027.1); E=1,4; Identity=67%; Query=100%; Gaps=0%
+1.2 RPTPPEPL (O14559.2); E=93; Identity=75%; Query=100%; Gaps=0%
+
+2   RMHLPVLHV:
+2.1 RIELPVLSV (Q96JB1.2); E=204; Identity=67%; Query=100%; Gaps=0%
+2.2 RLLLRVLHV (Q8N1G4.1); E=49; Identity=67%; Query=100%; Gaps=0%
+
+3   ILPQGPQTA:
+3.1 ILASGPQAA (Q702N8.1); E=69; Identity=67%; Query=100%; Gaps=0%
+3.2 ILNQFAATA (Q15788.3); E=115918; Identity=56%; Query=100%; Gaps=0%
+
+4   PLIPLTIFV:
+4.1 PQIPLTGFV (Q8IZP0.4); E=24; Identity=78%; Query=100%; Gaps=0%
+
+5   SLGNPSLSV:
+5.1 SFGNPSISV (Q93052.1); E=4,0; Identity=78%; Query=100%; Gaps=0%
+5.2 SLATPVVSV (Q06413.1); E=8759; Identity=56%; Query=100%; Gaps=0%
+5.3 SLSSADLS (Q06413.1); E=39306; Identity=50%; Query=100%; Gaps=0%
+5.4 SLGIPSLRV (Q6P2H8.1); E=17; Identity=78%; Query=100%; Gaps=0%
+5.5 SVSNPSLS (Q9BXT5.2); E=34; Identity=75%; Query=100%; Gaps=0%
+5.6 LGHPENSV (Q9NRP7.2); E=5953; Identity=63%; Query=100%; Gaps=0%
+5.7 SLEDSLLS (Q9P2D8.4); E=165058; Identity=50%; Query=100%; Gaps=0%
+5.8 SLGNSSSSV (Q8NGK0.1); E=49; Identity=78%; Query=100%; Gaps=0%
+5.9 SLDDPSLAI (Q7RTR0.1); E=69; Identity=56%%; Query=100%; Gaps=0%
+
+6   SMPELSPVL:
+6.1 SVPELSLVL (Q15468.2); E=8,2; Identity=78%; Query=100%; Gaps=0%
+6.2 MPVTGAVL (Q5TBA9.1); E=81078; Identity=50%; Query=100%; Gaps=0%
+6.3 SQPEPSPVL (Q5T6F2.1); E=17; Identity=78%; Query=100%; Gaps=0%
+6.4 SQPEMSPAL (Q9Y4K1.4); E=24; Identity=67%; Query=100%; Gaps=0%
+
+7   TLPPTPLLTV:
+7.1 TLPPGPLLGV (Q9UMN6.1); E=1,2; Identity=80%; Query=100%; Gaps=0%
+7.2 TLPPSPLM (P85298.1); E=1,7; Identity=75%; Query=100%; Gaps=0%
+7.3 TLQPTPALT (Q2M2H8.3); E=7,1; Identity=78%; Query=100%; Gaps=0%
+7.4 TLPPAPVL (P35658.2); E=7,1; Identity=75%; Query=100%; Gaps=0%
+7.5 LPRAKIITV (P52849.1); E=92136; Identity=44%; Query=100%; Gaps=0%
+7.6 PAAPLLTV (Q4ZIN3.1); E=10; Identity=75%; Query=100%; Gaps=0%
+7.7 TLPPKPHLVV (Q9NRJ4.2); E=15; Identity=70%; Query=100%; Gaps=0%
+7.8 LPMSPLAT (Q9H6K5.2); E=7181; Identity=63%; Query=100%; Gaps=0%
+7.9 TLPPQPVL (Q9Y3S1.4); E=30; Identity=75%; Query=100%; Gaps=0%
+
+8   SMHLPVLHV:
+8.1 SLELPVLHV (P04114.3); E=0,98; Identity=78%; Query=100%; Gaps=0%
+8.2 SMLQRVLH (Q8IWV8.1); E=2700; Identity=63%; Query=100%; Gaps=0%
+8.3 SLNLPVLEV (O95999.1); E=24; Identity=67%; Query=100%; Gaps=0%
+8.4 MYLQMEHV (P41182.1); E=39297; Identity=50%; Query=100%; Gaps=0%
+
+9 MLPQGPQTA:
+- nada
+
+10 SMPQLSPVV:
+- nada
+
+11   RLTLGHQLSL:
+11.1 RHTLGHLLSL (Q02809.2); E=1,7; Identity=80%; Query=100%; Gaps=0%
+11.2 RLTQALQASL (Q14674.3); E=4905; Identity=60%; Query=100%; Gaps=0%
+11.3 RLSLKEQLS (Q8NF91.4); E=366; Identity=67%; Query=100%; Gaps=0%
+11.4 RLALGPQPSL (Q9Y566.2); E=42; Identity=70%; Query=100%; Gaps=0%
+11.5 LTQGSLLS (Q03519.1); E=64686; Identity=63%; Query=100%; Gaps=0%
+11.6 RQTLAQELSL (Q05925.3); E=42; Identity=60%; Query=100%; Gaps=0%
+11.7 RLHLGHTFSL (Q9P2J5.2); E=87; Identity=70%; Query=100%; Gaps=0%
+
+12   HLLVDTNSL
+12.1 QLLLDTHSL (Q5VIR6.2); E=8.2; Identity=67%; Query=100%; Gaps=0%
+12.2 LLSEEKSL (Q8NDH2.3); E=81063; Identity=50%; Query=100%; Gaps=0%
+12.3 HLLVESKNL (P42704.3); E=24; Identity=56%; Query=100%; Gaps=0%
+12.4 HLLLANNSL (P14770.3); E=34; Identity=67%; Query=100%; Gaps=0%
+12.5 QLLSETLSL (P49454.3); E=4022; Identity=56%; Query=100%; Gaps=0%
+12.6 QLLVESESL (Q5VV67.1); E=69; Identity=56%; Query=100%; Gaps=0%
+12.7 HLLVTTYNL (Q9H2P0.1); E=69; Identity=67%; Query=100%; Gaps=0%
+12.8 HLVIQTSSL (Q8IUZ0.2); E=99; Identity=56%; Query=100%; Gaps=0%
+12.9 QLTVDVNSL (Q15846.1); E=100; Identity=67%; Query=100%; Gaps=0%
+
+13   SLTPPQPLM
+13.1 LTPPMPVM (Q9NYC9.3); E=4.0; Identity=75%; Query=100%; Gaps=0%
+13.2 SLAPGFPL (Q9NYC9.3); E=81069; Identity=63%; Query=100%; Gaps=0%
+13.3 SLTIPQPL (Q1W209.2); E=4.1; Identity=88%; Query=100%; Gaps=0%
+13.4 SLGPPAPL (O14559.2); E=99; Identity=75%; Query=100%; Gaps=0%
+13.5 SLFQPQPL (Q96EV2.3); E=204; Identity=75%; Query=100%; Gaps=0%
+13.6 LQPPGPLL (Q96DN6.2); E=1265; Identity=63%; Query=100%; Gaps=0%
+
+14   ILSPLSQPSL
+14.1 ILSPVSEPS (Q8TEP8.3); E=0.86; Identity=78%; Query=100%; Gaps=0%
+14.2 LSNLTQPSL (Q5VT52.1); E=5.0; Identity=78%; Query=100%; Gaps=0%
+14.3 SPVPSPSM (Q5VT52.1); E=21938; Identity=50%; Query=100%; Gaps=0%
+14.4 ILSPLMLPNL (A6NE01.3); E=10; Identity=70%; Query=100%; Gaps=0%
+14.5 VLSPLMQP (Q14865.3); E=10; Identity=75%; Query=100%; Gaps=0%
+14.6 LSRMEQMSL (Q9Y485.3); E=31573; Identity=56%; Query=100%; Gaps=0%
+14.7 ILNNLEKKSL (Q9Y485.3); E=92087; Identity=50%; Query=100%; Gaps=0%
+14.8 ILPQLAQPTL (Q9BVI4.1); E=15; Identity=60%; Query=100%; Gaps=0%
+14.9 ILPPLSPP (Q8TCU4.4); E=21; Identity=75%; Query=100%; Gaps=0%
+14.10 LSPLTPPS (Q03164.5); E=21; Identity=75%; Query=100%; Gaps=0%
+14.11 ILSPLASP (Q8IWB4.4); E=21; Identity=75%; Query=100%; Gaps=0%
+14.12 ILSPLASP (Q5VU36.1); E=21; Identity=75%; Query=100%; Gaps=0%
+14.13 ILSPLASP (Q5TZJ5.1); E=21; Identity=75%; Query=100%; Gaps=0%
+14.14 ILSPLASP (Q5VVP1.1); E=21; Identity=75%; Query=100%; Gaps=0%
+14.15 ILGELSEP (Q9P1Z3.2); E=526; Identity=63%; Query=100%; Gaps=0%
+14.16 ILVHIRQP (Q6P2E9.1); E=64671; Identity=50%; Query=100%; Gaps=0%
+14.17 VLVPLAAPSM (Q96RK0.3); E=758; Identity=50%; Query=100%; Gaps=0%
+
+15   TMHLPVLHV
+15.1 MNIRILHI (Q9Y223.1); E=1831; Identity=38%; Query=100%; Gaps=0%
+15.2 TMNLHVLDV (Q99680.2); E=24; Identity=67%; Query=100%; Gaps=0%
+15.3 TMYLPLLLV (P51810.2); E=49; Identity=67%; Query=100%; Gaps=0%

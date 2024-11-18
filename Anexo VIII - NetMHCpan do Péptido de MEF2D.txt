@@ -1,0 +1,25 @@
+# NetMHCpan version 4.1b
+
+# Tmpdir made /var/www/services/services/NetMHCpan-4.1/tmp/netMHCpanaRWOXB
+# Input is in FSA format
+
+# Peptide length 8,9,10
+
+# Make EL predictions
+
+HLA-A02:01 : Distance to training data  0.000 (using nearest neighbor HLA-A02:01)
+
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1 HLA-A*02:01      SLTTPVVSV SLTTPVVSV  0  0  0  0  0    SLTTPVVSV      P__p_MEF2D 0.9173530    0.040 <= SB
+   2 HLA-A*02:01       LTTPVVSV -LTTPVVSV  0  0  0  0  1     LTTPVVSV      P__p_MEF2D 0.0151270    5.505
+   1 HLA-A*02:01       SLTTPVVS SLTTPVVS-  0  0  0  8  1     SLTTPVVS      P__p_MEF2D 0.0010320   17.626
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein P__p_MEF2D. Allele HLA-A*02:01. Number of high binders 1. Number of weak binders 0. Number of peptides 3
+
+Link to Allele Frequencies in Worldwide Populations HLA-A02:01
+-----------------------------------------------------------------------------------
